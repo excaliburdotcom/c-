@@ -1,0 +1,7 @@
+C:\Users\Mike-PC\Desktop\mikecsharp\mike\bin\Debug\mike.exe.config
+C:\Users\Mike-PC\Desktop\mikecsharp\mike\bin\Debug\mike.exe
+C:\Users\Mike-PC\Desktop\mikecsharp\mike\bin\Debug\mike.pdb
+C:\Users\Mike-PC\Desktop\mikecsharp\mike\obj\Debug\mike.csproj.AssemblyReference.cache
+C:\Users\Mike-PC\Desktop\mikecsharp\mike\obj\Debug\mike.csproj.CoreCompileInputs.cache
+C:\Users\Mike-PC\Desktop\mikecsharp\mike\obj\Debug\mike.exe
+C:\Users\Mike-PC\Desktop\mikecsharp\mike\obj\Debug\mike.pdb
